@@ -16,7 +16,7 @@ require("mason-lspconfig").setup({
     "htmx",
     "jsonls",
     "lua_ls",
-    "phpactor",
+    "inteliphense",
     "rust_analyzer",
     "tsserver",
     "kotlin_language_server",
